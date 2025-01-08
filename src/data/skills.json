@@ -1,0 +1,30 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "html_logo.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "css_logo.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "python_logo.png"
+    },
+    {
+        "title": "C#",
+        "imageSrc": "csharp_logo.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "java_logo.png"
+    },
+    {
+        "title": "Django",
+        "imageSrc": "django_logo.png"
+    },
+    {
+        "title": "Docker",
+        "imageSrc": "docker_logo.png"
+    }
+]

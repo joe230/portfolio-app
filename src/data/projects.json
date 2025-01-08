@@ -1,0 +1,10 @@
+[
+    {
+        "title": "S.O.L.I.D. Principles",
+        "imageSrc": "programing.jpeg",
+        "description": "This is a project for learning SOLID Principles",
+        "skills": ["C#", "SOLID"],
+        "demo": "",
+        "source": "https://github.com/joe230/PrincipiosSolid"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Bootcamp IA Python",
+        "organisation": "Fundació Esplai",
+        "startDate": "2024",
+        "endDate": "2024",
+        "experiences":  ["Django", "Machine learning", "Deep Learning", "Softskills"],
+        "imageSrc": "AI_logo.png"
+    },
+    {
+        "role": "Vueling University",
+        "organisation": "Vueling",
+        "startDate": "2023",
+        "endDate": "2023",
+        "experiences":  [".Net Framework & Core", "Design Patterns", "Testing Applications", "Git", "Docker"],
+        "imageSrc": "vueling_logo.png"
+    },
+    {
+        "role": "Python Programer",
+        "organisation": "Bering",
+        "startDate": "2023",
+        "endDate": "2023",
+        "experiences":  ["Data analysis", "Pandas"],
+        "imageSrc": "bering_logo.png"
+    }
+]
