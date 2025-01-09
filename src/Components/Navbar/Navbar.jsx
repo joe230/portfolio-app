@@ -9,7 +9,7 @@ const Navbar = () => {
         <nav className={styles.navbar}>
             <div className={styles.navBrand}>
                 <img className={styles.navLogo} src={getImageUrl("JC_portfolio_logo.png")} alt="nabvar-logo" />
-                <a className={styles.navTitle} href="/portfolio-app/">Portfolio</a>
+                <a className={styles.navTitle} href="./">Portfolio</a>
             </div>
             <div className={styles.navMenu}>
                 <img 
