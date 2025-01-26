@@ -6,5 +6,13 @@
         "skills": ["C#", "SOLID"],
         "demo": "",
         "source": "https://github.com/joe230/PrincipiosSolid"
+    },
+    {
+        "title": "Project Manager API (WIP)",
+        "imageSrc": "project-manager.jpg",
+        "description": "Personal backend project designed to facilitate project management. Built with .NET Core 8 and Clean Architecture",
+        "skills": ["C#", "JWT", "Entity Framework", "Clean Architecture"],
+        "demo": "",
+        "source": "https://github.com/joe230/project-manager-api"
     }
 ]
